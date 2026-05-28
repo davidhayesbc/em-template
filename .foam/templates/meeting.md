@@ -1,4 +1,5 @@
 # {{meeting_title}}
+
 Date:
 Participants:
 Agenda:
