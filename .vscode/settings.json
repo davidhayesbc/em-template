@@ -5,6 +5,7 @@
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
   "foam.openDailyNote.onStartup": true,
+  "foam.graph.navigateToPreview": true,
   "foam.edit.linkReferenceDefinitions": "withExtensions",
   "[markdown]": {
     "editor.quickSuggestions": {
