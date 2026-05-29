@@ -9,6 +9,7 @@
     "skn0tt.markdown-link-expander",
     "bierner.markdown-mermaid",
     "hediet.vscode-drawio",
-    "kisstkondoros.vscode-gutter-preview"
+    "kisstkondoros.vscode-gutter-preview",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
