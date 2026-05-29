@@ -1,8 +1,12 @@
 # {{title}}
+
 Type: {{type}}
-Summary:
-- 
-Details:
-- 
-Links:
-- 
+
+Summary
+-
+
+Details
+-
+
+Links
+-
