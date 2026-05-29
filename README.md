@@ -5,6 +5,7 @@ It uses Markdown, Foam, and VS Code to create a lightweight, AI-friendly system
 for tracking people, systems, decisions, risks, and strategy.
 
 ## Structure
+
 - Daily-Logs: Capture everything you learn each day
 - Weekly-Summaries: Synthesize themes and insights
 - People: Notes on team members and stakeholders
@@ -18,9 +19,11 @@ for tracking people, systems, decisions, risks, and strategy.
 - Roadmaps: 6–12 month plans
 
 ## Templates
+
 Templates live in .foam/templates/ and can be used via Foam's template system.
 
 ## Recommended Workflow
+
 - Daily: Write a log in Daily-Logs
 - Weekly: Convert logs into atomic notes and write a summary
 - Monthly: Review decisions, risks, and update the Leadership Dashboard
